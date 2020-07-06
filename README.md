@@ -11,7 +11,7 @@ Based on the analysis the average fare of the suburban and rural cities is betwe
 
 
 ### Total Fare by City Type
-
+![Challenge 5 Total Fare by City](https://github.com/lrovira/PyBer_Analysis/blob/master/Analysis/Fig8.png)
 
 ### Summary DataFrame
 
